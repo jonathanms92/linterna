@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Linterna</string>
+    <string name="notification_text">Ir a la aplicacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="Desactivar">Desactivar</string>
+    <string name="Activar">Activar</string>
+    <string name="text_error">No se puede acceder a la camara</string>
+</resources>

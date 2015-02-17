@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Desactivar">Desactivar</string>
+    <string name="Activar">Activar</string>
+    <string name="text_error">No se puede acceder al flash</string>
+</resources>
